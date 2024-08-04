@@ -1,9 +1,0 @@
-# Arduino DMX Switch
-
-This code will map DMX channels to Arduino pins.
-You can use this to create cheap DMX controller switch.
-
-For this need DMX shield and probably some AC switches. 
-
-Change `PIN_MAPPER` To change PIN-Channel mapping and behavior.
-
